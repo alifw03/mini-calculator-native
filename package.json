@@ -1,0 +1,29 @@
+{
+  "name": "@ali33/mini-calculator-native",
+  "version": "1.0.0",
+  "description": "Ionic native mini calculator module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifw03/mini-calculator-native.git"
+  },
+  "keywords": [
+    "Mini",
+    "calculator",
+    "Ionic",
+    "cordova",
+    "custom",
+    "npm",
+    "module",
+    "plugin"
+  ],
+  "author": "Hashtag Services",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifw03/mini-calculator-native/issues"
+  },
+  "homepage": "https://github.com/alifw03/mini-calculator-native#readme"
+}
